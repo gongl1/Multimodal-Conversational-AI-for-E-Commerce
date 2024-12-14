@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+numpy
+pandas
+Pillow
+transformers
+torch
+requests
+openai==0.28
